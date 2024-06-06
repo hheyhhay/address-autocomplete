@@ -1,0 +1,38 @@
+{
+    "result": {
+      "more_results_available": true,
+      "confidence": "Multiple matches",
+      "suggestions": [
+        {
+          "global_address_key": "aWQ9MjAgTWFpbiwgQ2FybWVsIE5ZIDEwNTEyLCBVbml0ZWQgU3RhdGVzIE9mIEFtZXJpY2F-YWx0X2tleT18MjAgTWFpbnx8Q2FybWVsLE5ZLDEwNTEyLTE3MTV-ZGF0YXNldD1VU0FfUEFGfmZvcm1hdF9rZXk9VVNBJHVzLWFkZHJlc3MkZjBmMTc4ZGQtMDYzYy00NjMxLTlhZjgtZDVjN2Y2NThhOTg4JDIwJCQ",
+          "text": "20 Main, Carmel NY 10512",
+          "matched": [
+            [
+              3,
+              7
+            ],
+            [
+              0,
+              2
+            ]
+          ],
+          "format": "https://api.experianaperture.io/address/format/v1/aWQ9MjAgTWFpbiwgQ2FybWVsIE5ZIDEwNTEyLCBVbml0ZWQgU3RhdGVzIE9mIEFtZXJpY2F-YWx0X2tleT18MjAgTWFpbnx8Q2FybWVsLE5ZLDEwNTEyLTE3MTV-ZGF0YXNldD1VU0FfUEFGfmZvcm1hdF9rZXk9VVNBJHVzLWFkZHJlc3MkZjBmMTc4ZGQtMDYzYy00NjMxLTlhZjgtZDVjN2Y2NThhOTg4JDIwJCR-UUw9Nw"
+        },
+        {
+          "global_address_key": "aWQ9MjAgTWFpbiBTdGUgMzEwLCBDYXJtZWwgTlkgMTA1MTIsIFVuaXRlZCBTdGF0ZXMgT2YgQW1lcmljYX5hbHRfa2V5PXwyMCBNYWluIFN0ZSAzMTB8fENhcm1lbCxOWSwxMDUxMi0xNzkxfmRhdGFzZXQ9VVNBX1BBRn5mb3JtYXRfa2V5PVVTQSR1cy1hZGRyZXNzJDVkNmRlMzk0LTNkNGItNDkwZC1hY2UxLTQ5N2Y0Yjg4NzhhNSQyMCQzMTAk",
+          "text": "20 Main Ste 310, Carmel NY 10512",
+          "matched": [
+            [
+              3,
+              7
+            ],
+            [
+              0,
+              2
+            ]
+          ],
+          "format": "https://api.experianaperture.io/address/format/v1/aWQ9MjAgTWFpbiBTdGUgMzEwLCBDYXJtZWwgTlkgMTA1MTIsIFVuaXRlZCBTdGF0ZXMgT2YgQW1lcmljYX5hbHRfa2V5PXwyMCBNYWluIFN0ZSAzMTB8fENhcm1lbCxOWSwxMDUxMi0xNzkxfmRhdGFzZXQ9VVNBX1BBRn5mb3JtYXRfa2V5PVVTQSR1cy1hZGRyZXNzJDVkNmRlMzk0LTNkNGItNDkwZC1hY2UxLTQ5N2Y0Yjg4NzhhNSQyMCQzMTAkflFMPTc"
+        }
+      ]
+    }
+  }
