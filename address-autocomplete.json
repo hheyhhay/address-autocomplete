@@ -2,8 +2,8 @@
     "result": {
       "suggestions": [
         {
-          "id": "aWQ9MjAgTWFpbiwgQ2",
-          "label": "20 Main, Carmel NY 10512",
+          "global_address_key": "aWQ9MjAgTWFpbiwgQ2",
+          "text": "20 Main, Carmel NY 10512",
           "formattedAddress": {
             "address1": "20 Main",
             "city": "Carmel",
@@ -11,14 +11,14 @@
             "provinceCode": "NY",
             "zip": "10512"
           },
-          "matchedSubstrings": [
+          "matched": [
               {"offset": 3, "length": 4},
                 {"offset": 0, "length":2}
           ]
                 },
         {
-          "id": "aWQ9MjAgTWFpbiBTdG",
-          "label": "20 Main Ste 310, Carmel NY 10512",
+          "global_address_key": "aWQ9MjAgTWFpbiBTdG",
+          "text": "20 Main Ste 310, Carmel NY 10512",
           "formattedAddress": {
             "address1": "20 Main Ste 310",
             "city": "Carmel",
@@ -26,7 +26,7 @@
             "provinceCode": "NY",
             "zip": "10512"
           },
-          "matchedSubstrings": [
+          "matched": [
             {"offset": 3, "length": 4},
             {"offset": 0, "length":2}
          ]
