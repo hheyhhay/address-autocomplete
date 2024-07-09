@@ -1,36 +1,112 @@
 {
-    "result": {
-      "suggestions": [
-        {
-          "id": "aWQ9MjAgTWFpbiwgQ2",
-          "label": "20 Main, Carmel NY 10512",
-          "formattedAddress": {
-            "address1": "20 Main",
-            "city": "Carmel",
-            "countryCode": "US",
-            "provinceCode": "NY",
-            "zip": "10512"
+  "result": {
+    "suggestions": [
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiwgQ2",
+        "text": "20 Main, Carmel NY 10512",
+        "formattedAddress": {
+          "address1": "20 Main",
+          "city": "Carmel",
+          "countryCode": "US",
+          "provinceCode": "NY",
+          "zip": "10512"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
           },
-          "matchedSubstrings": [
-              {"offset": 3, "length": 4},
-                {"offset": 0, "length":2}
-          ]
-                },
-        {
-          "id": "aWQ9MjAgTWFpbiBTdG",
-          "label": "20 Main Ste 310, Carmel NY 10512",
-          "formattedAddress": {
-            "address1": "20 Main Ste 310",
-            "city": "Carmel",
-            "countryCode": "US",
-            "provinceCode": "NY",
-            "zip": "10512"
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTdG",
+        "text": "20 Main Ste 310, Carmel NY 10512",
+        "formattedAddress": {
+          "address1": "20 Main Ste 310",
+          "city": "Carmel",
+          "countryCode": "US",
+          "provinceCode": "NY",
+          "zip": "10512"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
           },
-          "matchedSubstrings": [
-            {"offset": 3, "length": 4},
-            {"offset": 0, "length":2}
-         ]
-        }
-      ]
-    }
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiwgV2",
+        "text": "20 Gram Cafe, West street, Brooklyn, NY 11222",
+        "formattedAddress": {
+          "address1": "20 Gram Cafe",
+          "address2": "West street",
+          "city": "Brooklyn",
+          "countryCode": "US",
+          "provinceCode": "NY",
+          "zip": "11222"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTvK",
+        "text": "20 Exchange Place, New York, NY 10005",
+        "formattedAddress": {
+          "address1": "20 Exchange Place",
+          "city": "New York",
+          "countryCode": "US",
+          "provinceCode": "NY",
+          "zip": "10005"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      },
+      {
+        "global_address_key": "aWQ9MjAgTWFpbiBTlP",
+        "text": "20 Jay Street, Brooklyn, NY 11201",
+        "formattedAddress": {
+          "address1": "20 Jay Street",
+          "city": "Brooklyn",
+          "countryCode": "US",
+          "provinceCode": "NY",
+          "zip": "110201"
+        },
+        "matched": [
+          {
+            "offset": 3,
+            "length": 4
+          },
+          {
+            "offset": 0,
+            "length": 2
+          }
+        ]
+      }
+    ]
+  }
 }
